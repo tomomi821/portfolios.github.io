@@ -39,7 +39,7 @@ hamburger.addEventListener(
 );
 const navButton = document.querySelector(".c_header__subNavTitle");
 const subNav = document.getElementById("subNav");
-console.log(subNav);
+
 navButton.addEventListener(
   "click",
   () => {
